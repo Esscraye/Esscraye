@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ### Languages
 
@@ -30,4 +30,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Esscraye&theme=onedark&no-frame=true&no-bg=true)
 
-</center>
+</div>
