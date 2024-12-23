@@ -42,7 +42,7 @@ November 2024 (24 hours)
 
 ### CTF (United CTF 2024)
 September 2024 (one week)
-- 5th place at United CTF (500 participants)
+- 15th place at United CTF (500 participants)
 [View Repository](https://github.com/Esscraye/united-ctf)
 
 </div>
