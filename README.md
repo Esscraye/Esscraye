@@ -11,8 +11,6 @@
 
 ## About Me
 
-I am currently a Computer Engineering Student specializing in digital engineering and pursuing a Master's degree in "Professional Computing." I have significant experience in web development, software development, project management, and information systems. Passionate about programming, computer security, and artificial intelligence, I have acquired technical skills in many areas of computer science. My background includes an internship at SAFRAN, application development, and management responsibilities within the Junior Enterprise EPF Projets.
-
 I am currently expanding my skill set by learning new DevOps and AI integration technologies. I am eager to apply these new skills to innovative projects and contribute to cutting-edge developments in the tech industry.
 
 ## Projects
